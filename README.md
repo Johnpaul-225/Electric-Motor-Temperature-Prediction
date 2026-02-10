@@ -1,4 +1,3 @@
-# Electric-Motor-Temperature-Prediction
 # Electric Motor Temperature Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -86,10 +85,9 @@ The dataset consists of real-world motor sensor readings, including:
 ---
 
 ## ⚙️ How to Run the Project
-
-### 🔹 Step 1: Install Dependencies
-```bash
+🔹 Step 1: Install Dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn flask
+
 🔹 Step 2: Train the Model
 Open Notebook/Rotor_Temperature_Detection.ipynb
 
@@ -171,15 +169,5 @@ This project is open for academic use and learning purposes.
 
 
 ---
-
-## ✅ YOU ARE NOW 100% SUBMISSION READY 🎉
-
-If you want, I can still help you with:
-- 📌 **Viva questions & answers**
-- 📌 **Final submission checklist**
-- 📌 **Architecture diagram explanation**
-- 📌 **How to explain this project confidently**
-
-Just tell me 👌
 
 
